@@ -52,6 +52,10 @@ permalink: /publications/
 ## Manuscripts Submitted
 
 1. **A. M. Buvarp** and S. Werner,  
+   "Variational Blind Equalization for Dual-Polarization Free-Space Quantum Communications,"  
+   manuscript in preparation for *IEEE Transactions on Signal Processing*, 2026.
+   
+1. **A. M. Buvarp** and S. Werner,  
    "Quaternion-Valued Adaptive Projection Statistics for Neural Receivers in Dual-Polarization Free-Space Quantum Communications,"  
    submitted to *IEEE Transactions on Communications*, 2026.
 
@@ -68,10 +72,6 @@ permalink: /publications/
    submitted to *IEEE Internet of Things Journal*, 2026.
 
 ## Manuscripts in Preparation
-
-1. **A. M. Buvarp** and S. Werner,  
-   "Variational Blind Equalization for Dual-Polarization Free-Space Quantum Communications,"  
-   manuscript in preparation for *IEEE Transactions on Signal Processing*, 2026.
 
 2. **A. M. Buvarp** and S. Werner,  
    "Quantum Information Geometry of State Trajectories,"  

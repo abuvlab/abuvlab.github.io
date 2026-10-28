@@ -22,7 +22,7 @@ Introduced a geometry-aware spectral architecture for low-latency bosonic decodi
 
 Presented a federated learning approach based on partial model sharing (ParMS), in which clients transmit selected model partitions rather than complete parameter updates.
 
-### IEEE International Symposium on Antennas and Propagation — Portland, Oregon
+### IEEE International Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting — Portland, Oregon
 **July 23, 2023**
 
 **Quaternion Neural Networks with Reconfigurable Intelligent Surface**

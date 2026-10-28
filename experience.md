@@ -69,11 +69,7 @@ signal processing multi-core DSP software.
 **Silver Spring Networks (2010–2017)**  
 Principal technical contributor to multicore
 DSP and ASIC development for smart-grid and
-industrial IoT wireless systems.
-
-Implemented real-time physical-layer algorithms
-for OFDM, LTE, WCDMA, ZigBee, and IEEE 802.15.4
-waveforms on CEVA vector DSP architectures.
+industrial IoT wireless systems. Implemented vector signal processing algorithms on CEVA-XC323 for several waveforms including 802.11abg, LTE, WCDMA, 802.15.4g OFDM, 802.15.4g DSSS, 802.15.4k LECIM with Gold codes, and ZigBee O-QPSK.
 
 **Wavesat (2009–2010)**  
 Developed LTE uplink reference models and

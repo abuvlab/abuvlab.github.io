@@ -39,3 +39,8 @@ evaluation of constant-curvature curve methods.
 
 **Repository:** [ABUV Lab / C3M](https://github.com/abuvlab/c3m)
 
+**Related publication:**
+
+A. M. Buvarp and S. Werner,
+“Low-Latency Joint Source-Channel Coding with Multiple Constant Curvature Curves,”
+submitted to *IEEE Transactions on Information Theory*, 2026.

@@ -133,7 +133,6 @@ Received an employee award for outstanding service.
 
 Worked in Magic Labs on automatic speech recognition,
 embedded DSP, and voice-enabled computer telephony.
-
 Implemented real-time spectral processing based on
 the Fast Hartley Transform in DSP assembly.
 
@@ -145,7 +144,6 @@ the Portico and Serengeti platforms.
 
 Developed object-oriented C++ software for
 DSP applications using Microsoft Foundation Classes.
-
 Implemented a real-time speech-analysis algorithm
 investigating acoustic abnormalities associated
 with cleft palate using Aladdin Interactive DSP

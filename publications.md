@@ -21,9 +21,7 @@ permalink: /publications/
    "Constant Curvature Curve Tube Codes for Low-Latency Analog Error Correction,"  
    *IEEE Transactions on Information Theory*, vol. 69, no. 12, pp. 7738–7754, 2023.
 
-5. S. E. Widmalm and **A. M. Buvarp**,  
-   "The need for improved standards of commonly used equipment for recording of EMG and TMJ Sounds in dental clinics,"  
-   *Stomatology Edu Journal*, vol. 10, no. 1–4, pp. 13–18, 2023.
+5. S. E. Widmalm and **A. M. Buvarp**, "The need for improved standards of commonly used equipment for recording of EMG and TMJ Sounds in dental clinics," *Stomatology Edu Journal*, vol. 10, no. 1–4, pp. 13–18, 2023.
 
 6. Y. Dong, B. Li, J. Hu, S. E. Widmalm, T. Zhang, M. Lin, **A. Buvarp**, and D. Zhou,  
    "Kurtosis, a new variable with possible diagnostic value in analysis of jaw muscle surface EMG,"  

@@ -1,10 +1,8 @@
 ---
 layout: page
-title: "Dissertations"
+title: "Dissertations, Theses, and Other Publications"
 permalink: /dissertations/
 ---
-
-## Dissertations, Theses, and Other Publications
 
 1. **A. M. Buvarp**,  
    *Robust Wireless Communications with Applications to Reconfigurable Intelligent Surfaces*,  

@@ -13,8 +13,7 @@ permalink: /dissertations/
    Master's thesis, Luleå University of Technology, 1993.
 
 3. **A. M. Buvarp** and Stefan Ahrner,  
-   *Activity Based Costing*,  
-   B.Sc. thesis, University of Luleå, 1992.
+   *Activity Based Costing*, B.Sc. thesis, University of Luleå, 1992.
 
 4. An extract of the Master's thesis was published in  
    *Mechanical and Production Engineering Magazine*,  

@@ -11,8 +11,6 @@ permalink: /teaching/
 **[Introduction to Robust Estimation Theory](https://isy.gitlab-pages.liu.se/ks/phd-courses/)**  
 Ph.D.-level course, Department of Electrical Engineering
 
-Created and taught the course for twelve Ph.D. students.
-
 Designed and delivered a doctoral course in robust
 statistical estimation for twelve Ph.D. students.
 
@@ -45,6 +43,12 @@ surfaces for his software-defined-radio course.
 Served as a committee member evaluating and grading
 four Master's theses in electronic systems and
 related subjects.
+
+Provided sustained academic mentoring and detailed feedback
+on a Master's thesis over several months during 2024–2025.
+The work involved substantial time and effort devoted to
+reviewing thesis material, providing constructive feedback,
+and supporting the student's academic development.
 
 ### Industrial Research Supervision
 

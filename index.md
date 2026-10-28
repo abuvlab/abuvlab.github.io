@@ -3,9 +3,11 @@ layout: page
 title: ""
 permalink: /
 ---
-
-![ABUV Lab — Statistical Signal Processing, Information Geometry, Wireless Communications, and Quantum Information](/abuvlab-logo.png)
-
+<p style="text-align: center;">
+  <img src="/abuvlab-logo.png"
+       alt="ABUV Lab"
+       style="width: 100%; max-width: 500px; height: auto;">
+</p>
 **Statistical Signal Processing · Robust AI · Wireless Communications · Quantum Information**
 
 I am a researcher at the Norwegian University of

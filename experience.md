@@ -17,7 +17,7 @@ I have worked across the semiconductor, defense, telecommunications, satellite c
 ### Norwegian University of Science and Technology
 **Researcher | 2024–2026**
 
-Research in robust estimation, machine learning,
+Research in robust estimation, federated learning,
 geometric communications, and quantum information
 in Professor Stefan Werner's research group.
 

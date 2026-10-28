@@ -9,6 +9,7 @@ baseurl: ""
 header_pages:
   - teaching.md
   - publications.md
+  - presentations.md  
   - proposals.md
   - dissertations.md
   - awards.md

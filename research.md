@@ -159,21 +159,16 @@ maritime environments.
 
 ## Information Geometry and Communication Theory
 
-This research direction investigates how geometric
-structure can be used to construct communication
-representations and decoding methods with controlled
-sensitivity to channel disturbances.
+This research direction investigates how geometric structure can be used to construct communication representations and decoding methods with controlled sensitivity to channel disturbances.
 
 ### Constant-Curvature Curve Tube Codes
 
-My published work on constant-curvature curve tube
-(C3T) codes develops geometric representations for
-low-latency analog joint source–channel coding.
-
-The approach uses structured curves in
+Building on earlier work by Taylor, Mili, and Zaghloul, I contributed to the development and validation of constant-curvature curve tube (C3T) codes for low-latency analog joint source–channel coding. The approach uses structured curves in
 higher-dimensional spaces to study the relationship
 between local sensitivity, global curve separation,
 and distortion under channel noise.
+
+My contributions include independent development of the simulation software, numerical optimization, derivation and implementation of MMSE decoding, performance comparisons with state-of-the-art, and theoretical and numerical refinements. My subsequent research extended C3T to quaternion-valued representations and multiple-curve constructions, including the development of new encoding, decoding, and optimization methods.
 
 **Selected publications:**
 

@@ -22,11 +22,16 @@ geometric communications, and quantum information
 in Professor Stefan Werner's research group.
 
 ### Linköping University, Sweden
-**Postdoctoral Fellow | 2024**
+**Postdoctoral Fellow, WASP–Aalto Reliable Array Processing Project | 2024**
 
-Research on repeater-assisted massive MIMO,
-reconfigurable intelligent surfaces, and
-electromagnetic environments for 5G/6G.
+Conducted research in Professor Erik G. Larsson's group
+on repeater-assisted massive MIMO, reconfigurable
+intelligent surfaces, and software-defined electromagnetic
+environments for 5G/6G communications.
+
+Participated in the **Wallenberg AI, Autonomous Systems
+and Software Program (WASP)–Aalto University**
+collaborative research project *Reliable Array Processing*.
 
 ### Virginia Tech National Security Institute
 **Graduate Research Assistant | 2020–2022**

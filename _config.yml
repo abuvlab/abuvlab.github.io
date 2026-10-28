@@ -3,20 +3,10 @@ description: Research in Signal Processing, Robust AI, and Quantum Information
 
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "default"
+remote_theme: "mmistakes/minimal-mistakes@4.28.1"
 
 url: "https://abuvlab.github.io"
 baseurl: ""
 
-header_pages:
-  - research.md
-  - teaching.md
-  - publications.md
-  - presentations.md  
-  - proposals.md
-  - dissertations.md
-  - awards.md
-  - experience.md
-  - software.md
-
-  plugins:
+plugins:
   - jekyll-include-cache

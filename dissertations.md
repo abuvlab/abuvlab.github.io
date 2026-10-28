@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dissertations and Theses
+title: ""
 permalink: /dissertations/
 ---
 

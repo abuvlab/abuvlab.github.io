@@ -12,9 +12,7 @@ permalink: /
 
 I am a researcher at the Norwegian University of
 Science and Technology (NTNU), Department of
-Electronic Systems.
-
-My research focuses on robust statistical estimation,
+Electronic Systems. My research focuses on robust statistical estimation,
 machine learning, information theory, wireless
 communications, and emerging quantum technologies.
 

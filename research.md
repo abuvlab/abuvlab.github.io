@@ -35,10 +35,7 @@ investigates learning from distributed wireless clients
 whose updates may be heterogeneous, corrupted, or
 adversarial.
 
-The research develops statistical methods for processing
-complex-valued model updates and identifying anomalous
-client contributions without relying exclusively on
-conventional real-valued learning representations.
+The research develops robust statistical methods for processing complex-valued model updates and identifying anomalous client contributions without relying exclusively on conventional real-valued learning representations. A key methodological contribution is the introduction of complex-valued projection statistics with maximum-likelihood thresholds derived from the Rayleigh distribution.
 
 **Research status:** Manuscript submitted to
 *IEEE Internet of Things Journal*.

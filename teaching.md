@@ -29,7 +29,7 @@ Contributed teaching materials on reconfigurable
 intelligent surfaces (RIS) for Professor
 Jeffrey Reed's advanced cellular communications course.
 
-**Software-Defined Radio**
+**Software Defined Radios**
 
 Invited by Professor Jeffrey Reed to prepare
 lecture materials on reconfigurable intelligent

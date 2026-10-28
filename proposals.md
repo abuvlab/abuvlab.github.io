@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research Proposals and Grant Development
+title: Proposals and Grant Development
 permalink: /proposals/
 ---
 

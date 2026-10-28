@@ -15,8 +15,7 @@ permalink: /publications/
    *IEEE Transactions on Antennas and Propagation*, vol. 73, no. 6, pp. 4038–4049, 2025.
 
 3. **A. M. Buvarp**, L. Mili, and A. Zaghloul,  
-   "Robust Constant Curvature Curve Communications with Complex and Quaternion Neural Networks,"  
-   *IEEE Transactions on Communications*, vol. 72, no. 12, pp. 7787–7797, 2024.
+   "Robust Constant Curvature Curve Communications with Complex and Quaternion Neural Networks," *IEEE Transactions on Communications*, vol. 72, no. 12, pp. 7787–7797, 2024.
 
 4. **A. M. Buvarp**, R. M. Taylor Jr., K. V. Mishra, L. Mili, and A. I. Zaghloul,  
    "Constant Curvature Curve Tube Codes for Low-Latency Analog Error Correction,"  
@@ -94,22 +93,5 @@ permalink: /publications/
 
 6. **A. M. Buvarp**, D. Jenkins, W. C. Headley, J. D. Gaeddert, and collaborators,  
    "A Hierarchical RF Machine Learning Architecture for Spectrum Situational Awareness in Congested Radar and Communications Environments,"  
-   manuscript in preparation for *IEEE Transactions on Aerospace and Electronic Systems*, 2026.
+   manuscript in preparation for *IEEE Transactions on Aerospace and Electronic Systems* Special Section on Sensing-Centric ISAC, 2026.
 
-## Dissertations, Theses, and Other Publications
-
-1. **A. M. Buvarp**,  
-   *Robust Wireless Communications with Applications to Reconfigurable Intelligent Surfaces*,  
-   Ph.D. dissertation, Virginia Tech, 2023.
-
-2. **A. M. Buvarp**,  
-   *A Magnetic Suspension System for Clean Room Environments*,  
-   Master's thesis, Luleå University of Technology, 1993.
-
-3. **A. M. Buvarp** and Stefan Ahrner,  
-   *Activity Based Costing*,  
-   B.Sc. thesis, University of Luleå, 1992.
-
-4. An extract of the Master's thesis was published in  
-   *Mechanical and Production Engineering Magazine*,  
-   Nanyang Technological University, Singapore, 1994.

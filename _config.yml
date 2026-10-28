@@ -1,7 +1,8 @@
 title: Anders M. Buvarp
 description: Research in Signal Processing, Robust AI, and Quantum Information
 
-theme: minima
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "default"
 
 url: "https://abuvlab.github.io"
 baseurl: ""

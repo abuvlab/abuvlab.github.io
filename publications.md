@@ -82,7 +82,7 @@ permalink: /publications/
    manuscript in preparation for *IEEE Transactions on Information Theory*, 2027.
 
 3. **A. M. Buvarp** and S. Werner,  
-   "Adversarial Sensing and Acquisition Denial with Eisenstein Lattice Repeater Deployment," manuscript in preparation for *IEEE Transactions on Aerospace and Electronic Systems*, 2027.
+   "Adversarial Sensing and Acquisition Denial with Eisenstein Lattice Repeater Deployment," manuscript in preparation for *IEEE Transactions on Aerospace and Electronic Systems*, Special Section on Intelligent Sensing and Electronic Warfare for Radar and Communication Systems, 2027.
 
 4. **A. M. Buvarp** and S. Werner,  
    "Identifiable Blind Channel Inference for RIS-Assisted TDD Massive MIMO with DFT-Structured Phase Probing," manuscript in preparation for *IEEE Transactions on Wireless Communications*, 2026.
@@ -92,5 +92,5 @@ permalink: /publications/
    manuscript in preparation for *IEEE Transactions on Communications*, 2026.
 
 6. **A. M. Buvarp**, D. Jenkins, W. C. Headley, J. D. Gaeddert, and collaborators,  
-   "A Hierarchical RF Machine Learning Architecture for Spectrum Situational Awareness in Congested Radar and Communications Environments," manuscript in preparation for *IEEE Transactions on Aerospace and Electronic Systems* Special Section on Sensing-Centric ISAC, 2026.
+   "A Hierarchical RF Machine Learning Architecture for Spectrum Situational Awareness in Congested Radar and Communications Environments," manuscript in preparation for *IEEE Transactions on Aerospace and Electronic Systems*, Special Section on Sensing-Centric ISAC, 2026.
 

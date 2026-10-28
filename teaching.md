@@ -4,7 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 ---
 
-## University Teaching
+## Courses
 
 ### Linköping University, Sweden (2024)
 

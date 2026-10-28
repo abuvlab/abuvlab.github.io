@@ -28,3 +28,14 @@ and A. I. Zaghloul,
 Analog Error Correction,"  
 *IEEE Transactions on Information Theory*,
 vol. 69, no. 12, pp. 7738–7754, 2023.
+
+
+---
+
+## C3M — Constant Curvature Curve Methods
+
+Research software associated with the development and
+evaluation of constant-curvature curve methods.
+
+**Repository:** [ABUV Lab / C3M](https://github.com/abuvlab/c3m)
+

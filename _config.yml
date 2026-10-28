@@ -16,3 +16,6 @@ header_pages:
   - awards.md
   - experience.md
   - software.md
+
+  plugins:
+  - jekyll-include-cache

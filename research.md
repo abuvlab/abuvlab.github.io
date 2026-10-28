@@ -168,7 +168,9 @@ higher-dimensional spaces to study the relationship
 between local sensitivity, global curve separation,
 and distortion under channel noise.
 
-My contributions include independent development of the simulation software, numerical optimization, derivation and implementation of MMSE decoding, performance comparisons with state-of-the-art methods, and theoretical and numerical refinements. My subsequent research extended C3T to quaternion-valued representations and multiple-curve constructions, including the development of new encoding, decoding, and optimization methods. The multiple-curve extension was originally suggested by Kumar Vijay Mishra.
+My contributions to C3T include independent development of the simulation software, numerical optimization, derivation and implementation of MMSE decoding, performance comparisons with state-of-the-art methods, and theoretical and numerical refinements. 
+
+My subsequent research extended C3T to complex- and quaternion-valued representations and later multiple-curve constructions, including the development of new encoding, decoding, and optimization methods. The multiple-curve extension of C3T was originally suggested by Kumar Vijay Mishra.
 
 **Selected publications:**
 

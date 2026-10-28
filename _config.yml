@@ -10,3 +10,10 @@ baseurl: ""
 
 plugins:
   - jekyll-include-cache
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: single

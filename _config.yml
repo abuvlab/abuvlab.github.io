@@ -9,6 +9,7 @@ baseurl: ""
 
 plugins:
   - jekyll-include-cache
+  - jekyll-remote-theme
 
 defaults:
   - scope:

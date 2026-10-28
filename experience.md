@@ -117,9 +117,7 @@ Received the NAVSYS Silver Award.
 
 Led engineers developing fixed-point DSP algorithms
 for mass-produced multimedia system-on-chip
-architectures.
-
-Developed real-time AAC audio coding,
+architectures. Developed real-time AAC audio coding,
 FFT implementations, DSP assembly, and
 memory- and DMA-aware processing.
 
@@ -135,7 +133,6 @@ Worked in Magic Labs on automatic speech recognition,
 embedded DSP, and voice-enabled computer telephony.
 Implemented real-time spectral processing based on
 the Fast Hartley Transform in DSP assembly.
-
 Contributed to research associated with
 the Portico and Serengeti platforms.
 

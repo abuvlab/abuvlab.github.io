@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Presentations and Research Communication
+title: Talks
 permalink: /presentations/
 ---
 

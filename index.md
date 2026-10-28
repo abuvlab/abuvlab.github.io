@@ -4,8 +4,6 @@ title: ""
 permalink: /
 ---
 
-# Anders M. Buvarp
-
 **Statistical Signal Processing · Robust AI · Wireless Communications · Quantum Information**
 
 I am a researcher at the Norwegian University of

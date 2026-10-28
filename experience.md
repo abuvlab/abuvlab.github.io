@@ -10,11 +10,7 @@ digital signal processing, wireless communications,
 satellite systems, embedded software, and semiconductor
 technology.
 
-I have worked across the United States, Canada,
-Sweden, Norway, Singapore, Malaysia, and the Philippines,
-developing algorithms and implementations for
-communication, navigation, sensing, and real-time
-signal processing systems.
+I have worked in the semiconductor, defense, and satellite communications (SATCOM) industries across the United States, Canada, Sweden, Norway, Singapore, Malaysia, and the Philippines, developing algorithms and implementations for communications, navigation, sensing, and real-time signal processing systems.
 
 ## Academic Appointments
 

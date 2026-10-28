@@ -73,6 +73,10 @@ permalink: /publications/
 
 ## Manuscripts in Preparation
 
+1. **A. M. Buvarp** and S. Werner,  
+   "Quantum Information Geometry for Robust Quantum Kernel Learning,"  
+   manuscript in preparation for *Quantum Machine Intelligence* (Springer Nature), 2027.
+
 2. **A. M. Buvarp** and S. Werner,  
    "Quantum Information Geometry of State Trajectories,"  
    manuscript in preparation for *IEEE Transactions on Information Theory*, 2027.

@@ -8,7 +8,12 @@ permalink: /
        alt="ABUV Lab"
        style="width: 100%; max-width: 500px; height: auto;">
 </p>
-**Statistical Signal Processing · Robust AI · Wireless Communications · Quantum Information**
+<p style="text-align: center;">
+  <strong>
+    Statistical Signal Processing · Robust AI<br>
+    Wireless Communications · Quantum Information
+  </strong>
+</p>
 
 I am a researcher at the Norwegian University of
 Science and Technology (NTNU), Department of

@@ -7,7 +7,7 @@ permalink: /
   <img src="/abuvlab-logo.png"
        alt="ABUV Lab"
        style="width: 100%; max-width: 500px; height: auto;">
-
+</p>
 <p style="text-align: center;">
   <strong>
     Statistical Signal Processing · Robust AI<br>

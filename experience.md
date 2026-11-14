@@ -43,7 +43,7 @@ and wireless security.
 ## Industrial Research and Engineering
 
 ### Creative Radio Design LLC
-**Founder, President, and DSP Consultant | 2007–2023**
+**Founder, President, and DSP Consultant | 2006–2023**
 
 Founded and operated an independent signal-processing
 consultancy serving companies developing wireless,
@@ -91,10 +91,16 @@ Developed nonlinear RF predistortion and
 adaptive estimation algorithms, including
 embedded implementations on TI DSP platforms.
 
+**Samplify Systems (2007)**
+Ported signal compression technology and intelligent data converters to Linux.
+
+**Ikanos Communications (2006)**  
+Implemented a phase-locked loop (PLL) in VHDL for an ADSL transceiver/equalizer ASIC development.
+
 ### SR Technologies
 **Senior DSP Engineer | 2006–2007**
 
-Developed embedded signal processing algorithms
+Developed embedded signal processing algorithms such as Turbo decoders, BCH channel coding, Viterbi, etc.
 for defense and satellite communications,
 including GSM, UMTS, IRIDIUM, Inmarsat BGAN,
 and Thuraya systems.
@@ -115,11 +121,7 @@ Received the NAVSYS Silver Award.
 ### LSI Logic / C-Cube Microsystems
 **Senior DSP Engineer | 1999–2003**
 
-Led engineers developing fixed-point DSP algorithms
-for mass-produced multimedia system-on-chip
-architectures. Developed real-time AAC audio coding,
-FFT implementations, DSP assembly, and
-memory- and DMA-aware processing.
+Led engineers developing microcode fixed-point DSP algorithms for mass-produced multimedia system-on-chip architectures. Developed real-time AAC audio coding, virtual surround, speech recognition, FFT implementations, DSP assembly, and memory- and DMA-aware processing.
 
 The work contributed to widely deployed
 commercial DVD and multimedia products.
@@ -133,8 +135,7 @@ Worked in Magic Labs on automatic speech recognition,
 embedded DSP, and voice-enabled computer telephony.
 Implemented real-time spectral processing based on
 the Fast Hartley Transform in DSP assembly.
-Contributed to research associated with
-the Portico and Serengeti platforms.
+Contributed to research associated with the Portico and Serengeti platforms.
 
 ### DSP Systems AB, Sweden
 **DSP Consultant | 1996–1997**

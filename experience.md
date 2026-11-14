@@ -95,7 +95,7 @@ embedded implementations on TI DSP platforms.
 Ported signal compression technology and intelligent data converters to Linux.
 
 **Ikanos Communications (2006)**  
-Implemented a phase-locked loop (PLL) in VHDL for an ADSL transceiver/equalizer ASIC development.
+Implemented a phase-locked loop (PLL) in VHDL for an ADSL transceiver ASIC development.
 
 ### SR Technologies
 **Senior DSP Engineer | 2006–2007**

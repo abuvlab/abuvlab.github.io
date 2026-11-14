@@ -57,7 +57,7 @@ communications, including synchronization under
 orbital motion and extended propagation delays.
 
 **JMA Wireless / Phazr (2019)**  
-Developed multithreaded implementations of 5G NR CRC algorithms.
+Developed multithreaded POSIX implementations of the complete set of 5G NR CRC algorithms.
 
 **Shoof Technologies (2018)**  
 Developed estimation algorithms for non-line-of-sight industrial positioning.
@@ -91,7 +91,7 @@ Developed nonlinear RF predistortion and
 adaptive estimation algorithms, including
 embedded implementations on TI DSP platforms.
 
-**Samplify Systems (2007)**
+**Samplify Systems (2007)**  
 Ported signal compression technology and intelligent data converters to Linux.
 
 **Ikanos Communications (2006)**  
